@@ -1,2 +1,2 @@
 # nodeapp
-node ja application
+node js application
