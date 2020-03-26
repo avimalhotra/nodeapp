@@ -1,4 +1,8 @@
-const colors=require('colors');
-let x=3, y=6;
-//console.log(`${x*y}.green`);
-console.log("green".green);
+const mod=require('./module');
+const mod2=require('./mod2');
+
+//console.log(`name is ${mod.name}`);
+
+
+console.log(`data in mod 1 is, name: ${mod.name}, and age is ${mod.age}`);
+console.log(`data in mod 2 is, name: ${mod2.user.name}, and age is ${mod2.user.age}`);
